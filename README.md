@@ -1,4 +1,6 @@
-# Daolism
+# README
+
+#[+] Daolism
 
 - In a "way"
 - Find a "way" out
@@ -10,10 +12,22 @@
 - Give away
 - Give a "way"
 
-# Terence's Tao
+#[#]+ Terence's Tao
 
-# 帶路
+#[#]+ 帶路
 
-# 大盜
+#[#]+ 大盜
 
-# 大道 Boulevard
+#[#]+ 大道 Boulevard
+
+#[#]+ Connection
+
+#[#]+ DeepSeek
+
+## 42 street 
+
+<https://www.roc-taiwan.org/usnyc_en/index.html>
+
+#[#]+ 深入學習
+
+#[#]+ A[ ]Star[]Search Alogrithm
