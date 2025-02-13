@@ -30,4 +30,4 @@
 
 #[#]+ 深入學習
 
-#[#]+ A[ ]Star[]Search Alogrithm
+#[#]+ A[ ]Star[][ ]Search Alogrithm
