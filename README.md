@@ -1,6 +1,6 @@
 # README
 
-#[+] Daolism
+#[#][+] Daolism
 
 - In a "way"
 - Find a "way" out
